@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Intuit Brand Team" />
         <p className="description">
           Intuit Brand Test! HELLO WORLD!
         </p>
